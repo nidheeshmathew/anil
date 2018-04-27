@@ -8,7 +8,7 @@
  *
  * @author User
  */
-public class NewClass {
-    int n;
-    String str;
+public class NewClass1 {
+    int s;
+    
 }
